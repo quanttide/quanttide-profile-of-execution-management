@@ -1,4 +1,4 @@
-# QtCloud（量潮云）
+# QtCloud 产研（product）
 
 ## 平台建设
 
