@@ -4,18 +4,10 @@
 
 ## 目录结构
 
-- `docs/` — 人类可读的执行档案（叙事）：`qtdata/`、`qtclass/`、`qtcloud/`，按 **业务 × 职能** 组织。
-- `data/` — 机器可读的种子数据：`seed_tasks.json`（结构化任务清单），部署时注入并持续维护。
+- `quanttide-tech/` — 量潮科技的执行档案：`qtdata/`（量潮数据）、`qtclass/`（量潮课堂）、`qtcloud/`（量潮云），按 **业务 × 职能** 组织。
+- `quanttide-alliance/` — 量潮联盟的执行档案：`qtrecurit/`、`qtcrowd/`。
 - `README.md` — 仓库入口；`AGENTS.md` — 目录与维护约定。
-
-## 业务划分
-
-```
-qtdata/   # 量潮数据：客户项目复现、数据产品
-qtclass/  # 量潮课堂：实训基地招聘运营、课堂创新
-qtcloud/  # 量潮云：平台建设、三朵云、业务云
-```
 
 ## 详见
 
-目录职责与维护约定见 [AGENTS.md](AGENTS.md)（`docs/` 为叙事来源、`data/` 为机器唯一事实源）。
+目录职责与维护约定见 [AGENTS.md](AGENTS.md)。

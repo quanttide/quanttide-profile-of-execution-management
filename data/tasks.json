@@ -1,7 +1,0 @@
-{
-  "lists": [
-    { "id": "qtdata", "name": "量潮数据", "tasks": [] },
-    { "id": "qtclass", "name": "量潮课堂", "tasks": [] },
-    { "id": "qtcloud", "name": "量潮云", "tasks": [] }
-  ]
-}
