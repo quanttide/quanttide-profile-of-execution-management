@@ -6,6 +6,13 @@
 
 > 变更（2026-08-27）：原计划「往 qtclass 上线」取消——课堂打算围绕课程体系重新做，任务书不放课堂上了。
 
+## 重点（O/KR）
+
+- **O**：qtcrowd 平稳收口，信息迁往 quanttide-learn。
+  - KR1：6 个任务档案全部迁移完成 — 当前：未开始（卡在任务书格式拍板）
+  - KR2：站点与线上资产下线（deploy workflow、CDN/DNS、FC provider） — 当前：未开始，依赖 KR1
+  - KR3：不可逆收尾（删 OSS 桶、archive 仓库）经确认后执行 — 当前：未开始
+
 ## 背景（调研实况）
 
 - crowd 的 profile（quanttide-profile-of-crowd-sourcing）是 qtcrowd 站点的数据源：6 个任务档案（业务/类别/状态 + 固定小节格式），按来源第二大脑分目录，站点 tasks.json 由 `scripts/sync-tasks.mjs` 从档案生成。
@@ -42,4 +49,4 @@
 
 ## 当前状态
 
-- 分解已按新方向更新（两步：转移 → 逐步下线），第一步待格式拍板后开工。
+- 三个 KR 均未动；第一步卡在任务书格式拍板（见下方「待拍板」）。
