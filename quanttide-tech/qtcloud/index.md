@@ -21,6 +21,3 @@
 
 组织 v0.2 的重构。
 
-## 职能档案
-
-- [product.md](product.md) — 产研
