@@ -1,12 +1,9 @@
 # QtClass（量潮课堂）
 
-## 定位
+## 目标
 
-## 重点
+### 长期目标
 
-## 当前状态
+### 短期目标
 
-## 职能档案
-
-- [operation.md](operation.md) — 运营
-- [product.md](product.md) — 产研
+## 任务

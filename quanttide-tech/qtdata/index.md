@@ -1,12 +1,9 @@
 # QtData（量潮数据）
 
-## 定位
+## 目标
 
-## 重点
+### 长期目标
 
-## 当前状态
+### 短期目标
 
-## 职能档案
-
-- [business.md](business.md) — 商务
-- [product.md](product.md) — 产研
+## 任务
