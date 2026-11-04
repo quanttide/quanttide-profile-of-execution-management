@@ -10,6 +10,7 @@
   - [量潮云](quanttide-tech/qtcloud/index.md)：产研（product.md）
 - `quanttide-alliance/` — 量潮联盟的执行档案：`qtrecurit/`、`qtcrowd/`，[组级 index](quanttide-alliance/index.md)。
 - [quanttide-founder/](quanttide-founder/index.md) — 创始人的目标与关键结果。
+- [quanttide-institute/](quanttide-institute/index.md) — 量潮研究院的目标与关键结果。
 - `README.md` — 仓库入口；`AGENTS.md` — 目录与维护约定。
 
 ## 详见

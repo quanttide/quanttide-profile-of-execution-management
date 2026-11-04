@@ -17,6 +17,7 @@ quanttide-alliance/   # 量潮联盟
   qtrecurit/
   qtcrowd/
 quanttide-founder/   # 创始人（目标与关键结果）
+quanttide-institute/   # 量潮研究院（目标与关键结果）
 README.md
 LICENSE
 ```
