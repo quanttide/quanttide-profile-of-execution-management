@@ -4,7 +4,10 @@
 
 ## 目录结构
 
-- `quanttide-tech/` — 量潮科技的执行档案：`qtdata/`（量潮数据）、`qtclass/`（量潮课堂）、`qtcloud/`（量潮云），按 **业务 × 职能** 组织。
+- `quanttide-tech/` — 量潮科技的执行档案，按 **业务 × 职能** 组织：
+  - [量潮数据](quanttide-tech/qtdata/index.md)：商务（business.md）、产研（product.md）
+  - [量潮课堂](quanttide-tech/qtclass/index.md)：运营（operation.md）、产研（product.md）
+  - [量潮云](quanttide-tech/qtcloud/index.md)：产研（product.md）
 - `quanttide-alliance/` — 量潮联盟的执行档案：`qtrecurit/`、`qtcrowd/`。
 - `README.md` — 仓库入口；`AGENTS.md` — 目录与维护约定。
 
