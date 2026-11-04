@@ -8,7 +8,8 @@
   - [量潮数据](quanttide-tech/qtdata/index.md)：商务（business.md）、产研（product.md）
   - [量潮课堂](quanttide-tech/qtclass/index.md)：运营（operation.md）、产研（product.md）
   - [量潮云](quanttide-tech/qtcloud/index.md)：产研（product.md）
-- `quanttide-alliance/` — 量潮联盟的执行档案：`qtrecurit/`、`qtcrowd/`。
+- `quanttide-alliance/` — 量潮联盟的执行档案：`qtrecurit/`、`qtcrowd/`，[组级 index](quanttide-alliance/index.md)。
+- [quanttide-founder/](quanttide-founder/index.md) — 创始人的目标与关键结果。
 - `README.md` — 仓库入口；`AGENTS.md` — 目录与维护约定。
 
 ## 详见
