@@ -13,9 +13,9 @@
 
 ### 媒体云
 
-正在组织验证和迭代媒体云 v0.1–0.2。
+正在组织验证和迭代媒体云 v0.1–0.2。任务分解见 [qtcloud-media.md](qtcloud-media.md)。
 
 ### 执行云
 
-组织 v0.1.x 增加目标功能。
+组织 v0.1.x 增加目标功能。任务分解见 [qtcloud-execute.md](qtcloud-execute.md)。
 
