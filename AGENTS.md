@@ -12,7 +12,7 @@
 quanttide-tech/   # 量潮科技
   qtdata/    # 量潮数据：客户项目复现、数据产品（index + business/product）
   qtclass/   # 量潮课堂：实训基地招聘运营、课堂创新（index + operation/product）
-  qtcloud/   # 量潮云：媒体云、执行云（index + qtcloud-media/qtcloud-execute 任务分解）
+  qtcloud/   # 量潮云：媒体云、执行云、人事云（index + qtcloud-* 任务分解）
 quanttide-alliance/   # 量潮联盟
   qtrecurit/
   qtcrowd/
@@ -23,7 +23,7 @@ README.md
 LICENSE
 ```
 
-- 每个业务含 `index.md`（目标、关键结果；任务：按任务组分三级标题）+ 职能档案（`product|operation|business`）；任务也可按任务组另立任务分解文件（如 qtcloud/ 的 `qtcloud-media.md`、`qtcloud-execute.md`），index 只留当前状态并链到分解文件。
+- 每个业务含 `index.md`（目标、关键结果；任务：按任务组分三级标题）+ 职能档案（`product|operation|business`）；任务也可按任务组另立任务分解文件（如 qtcloud/ 下的 `qtcloud-*.md`），index 只留当前状态并链到分解文件。
 - 职能档案是「发生过什么、当前进展」的**叙事**来源，变更节奏相对慢（沉淀经验）。
 
 ## 维护约定

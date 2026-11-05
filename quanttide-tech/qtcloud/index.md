@@ -19,3 +19,7 @@
 
 组织 v0.1.x 增加目标功能。任务分解见 [qtcloud-execute.md](qtcloud-execute.md)。
 
+### 人事云
+
+搭建六职能导航并接入入职/离职清单。任务分解见 [qtcloud-human.md](qtcloud-human.md)。
+
