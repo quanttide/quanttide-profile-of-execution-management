@@ -12,7 +12,7 @@
 quanttide-tech/   # 量潮科技
   qtdata/    # 量潮数据：客户项目复现、数据产品（index + business/product）
   qtclass/   # 量潮课堂：实训基地招聘运营、课堂创新（index + operation/product）
-  qtcloud/   # 量潮云：媒体云、执行云、人事云（index + qtcloud-* 任务分解）
+  qtcloud/   # 量潮云：媒体云、执行云、人事云、沟通云、元工程第二大脑（index + qtcloud-* 任务分解）
 quanttide-alliance/   # 量潮联盟
   qtrecurit/
   qtcrowd/

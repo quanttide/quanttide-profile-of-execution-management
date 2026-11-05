@@ -1,6 +1,6 @@
 # QtCloud 执行云任务分解
 
-分解自 [index.md](index.md) 的「执行云」任务组：index 只留当前状态，任务细节与叙事记在本文件，完成后回写 index。产品代码在本域 `apps/qtcloud-execute`，含服务端（provider，Go + FC）、工作台（studio，Flutter）、CLI（Rust）与介绍站（site）四个 scope。
+分解自 [index.md](index.md) 的「执行云」任务组：index 只留当前状态，任务细节与叙事记在本文件，完成后回写 index。产品代码在本域 `apps/qtcloud-execute`，含服务端（provider，Go + FC）、工作台（studio，Flutter）、CLI（Rust）与介绍站（site）四个 scope。排期依据 2026-11-04《执行云及执行第二大脑》邮件。
 
 ## 对应关键结果
 
@@ -20,6 +20,12 @@ v0.1 于 2026-09-03 发布并真实在用：公开看板、无账号，任务清
 2. 打 `studio/*` 标签发布侧边栏与目标页——目标页一屏一张 OKR 卡片，「新目标」如实标注开发中。
 
 两份文档待评审：`src/provider/docs/outcome.md` 与 `docs/specification/matters/outcome.md`。
+
+### 接入 OKR 体系与目标信息
+
+2026-11-04 邮件定的本阶段主要变化。任务看板经团队验证初步可用，但时效太短，说明建模还没有触及本质，因此重新拿出 OKR 体系与 Objective 对象。profile 仓库已对创始人、公司、联盟、研究院、实训基地的 OKR 做了初步梳理，下一步是把它们整理到 studio。原型是飞书 OKR 与飞书任务。设计上，lite 与 studio 打通是延迟的设计决策，等个人与组织之间的关系清晰以后再打通并接入 provider。
+
+验证方式：不逐条提问，看联合提交的结果对问题的判断是否准确有效，验证方式由提交方制定；档案侧的验证方式是看到迭代目标和围绕目标迭代任务。
 
 ### 从个人看板升级为组织执行系统
 

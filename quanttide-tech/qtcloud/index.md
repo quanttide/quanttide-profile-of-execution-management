@@ -23,3 +23,11 @@
 
 搭建六职能导航并接入入职/离职清单。任务分解见 [qtcloud-human.md](qtcloud-human.md)。
 
+### 沟通云
+
+从 AI 原生团队备忘录起步。任务分解见 [qtcloud-connect.md](qtcloud-connect.md)。
+
+### 元工程第二大脑
+
+在 lab 仓库做实验，gallery 增加平台范畴。任务分解见 [qtcloud-meta.md](qtcloud-meta.md)。
+
